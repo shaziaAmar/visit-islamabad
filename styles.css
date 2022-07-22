@@ -1,0 +1,153 @@
+.page {
+    align-items: center;
+}
+
+.hero-image {
+    width: 720px;
+    height: 343px;
+    left: 0px;
+    top: 0px;
+    background: url(./images/syed-bilal-javaid-uc9GjDHj1yA-unsplash.jpg);
+}
+
+.hero-image {
+    margin-bottom: unset;
+}
+.header {
+    position: absolute;
+    width: 225px;
+    height: 42px;
+    left: 247px;
+    top: 119px;
+    background: #006DAA;
+    border-radius: 10px;
+    color: white;
+    opacity: 1.0;
+    position: absolute;
+    width: 201px;
+    height: 34px;
+    left: 259px;
+    top: 122px;
+    font-family:'Edu NSW ACT Foundation', cursive;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 37px;
+    text-align: center;
+    color: #FFFFFF;
+    /* margin-bottom: 20px; */
+    padding: 4px 4px 8px 8px;
+}
+
+.subhead {
+     position: absolute;
+    width: 412px;
+    height: 52px;
+    left: calc(50% - 412px/2);
+    top: calc(50% - 52px/2 + 26.5px);
+    background: #006DAA;
+    border-radius: 10px;
+    color: white;
+    position: absolute;
+    width: 355px;
+    height: 39px;
+    left: 182px;
+    top: 177px;
+    font-family:'Edu NSW ACT Foundation', cursive;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18.72px;
+    line-height: 22px;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 4px 4px 8px 8px;
+ }
+
+ .activities {
+    width: 720px;
+    height: 343px;
+    left: 0px;
+    top: 343px;
+    background: #F1FAEE;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    color: #1D3557;
+    text-align: center;
+ }
+
+
+ .activities h3 {
+     text-align: center;
+     margin-top: unset;
+ }
+
+ .activity-sections {
+     display: flex;
+     justify-content: space-between;
+     width: 720px;
+     height: 343px;
+     left: 0px;
+     top: 343px;
+ }
+
+ .activity-sections h2 {
+     margin-left: 41px;
+     padding-right: 45px;
+ }
+
+.activity-sections p {
+    width: 198px;
+    height: 55px;
+    left: 34px;
+    top: 230px;
+    margin-left: 34px;
+
+}
+
+ .activity-img {
+    width: 100px;
+    height: 99.34px;
+    left: 83px;
+    top: 59px;
+    background: url(./images/fm.jpeg);
+ }
+
+
+.main-profile {
+    display: flex;
+    width: 400px;
+    height: 294px;
+    left: 160px;
+    top: 50px;
+
+    background: #003559;
+    box-shadow: 0px 6px 0px #006DAA;
+    border-radius: 10px;
+    margin: 50px 160px;
+
+}
+
+.profile-section {
+    width: 720px;
+    height: 394px;
+    left: 0px;
+    top: 686px;
+    background: #A9CDEF;
+    border: solid #003559  2px;
+}
+
+.tour-guide {
+    width: 180px;
+    height: 248.67px;
+    left: 173px;
+    top: 73px;
+    background: url(tour-guide.jpg);
+    border-radius: 10px;
+    margin: 23px 7px 23px 13px;
+}
+
+.profile-section-txt {
+    text-align: center;
+    color: white;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    font-size: 20px;
+}
